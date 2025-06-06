@@ -1,6 +1,6 @@
 # Optimal parameter choice for regularized Shannon sampling formulas
 
-This repository contains the code files used for the paper ["Optimal parameter choice for regularized Shannon sampling formulas"](https://arxiv.org/abs/2407.16401).
+This repository contains the code files used for the paper ["Some remarks on regularized Shannon sampling formulas"](https://arxiv.org/abs/2407.16401).
 </br></br>
 
 **$\bullet$ plot_proofs.m** </br>
